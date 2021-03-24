@@ -1,0 +1,37 @@
+_repo: On-the-Brink-of-a-Chasm-A-record-of-plot-and-passion_64534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Smith, Elizabeth Thomasina Meade
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64534'
+  lccn: '99005548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revenge -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mesmerism -- Fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- GITenberg
+title: 'On the Brink of a Chasm: A record of plot and passion'
+url: http://www.gutenberg.org/ebooks/64534
